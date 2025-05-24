@@ -1,0 +1,25 @@
+{
+  "name": "infographic-screenshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshambajpai1604/infographic-screenshot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sakshambajpai1604/infographic-screenshot/issues"
+  },
+  "homepage": "https://github.com/sakshambajpai1604/infographic-screenshot#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "puppeteer": "^24.9.0"
+  }
+}
